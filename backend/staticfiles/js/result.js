@@ -4,7 +4,7 @@ const facebookShare = document.querySelector('.facebook_share');
 /////// 카카오 공유 코드 ////////
 
 const kakaoShare = document.querySelector('.kakao_share');
-Kakao.init('536c82e374e49eb7b730d3e4d2f8d974');
+Kakao.init('API_KEY');
 // 536c82e374e49eb7b730d3e4d2f8d974
 // Kakao.isInitialized();
 
